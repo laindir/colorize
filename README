@@ -1,0 +1,11 @@
+Allows the use of colored text on linux terminals. The options below can be used multiple times. The first color specified sets the foreground color, the last color specified sets the background color.
+
+	-k	black
+	-r	red
+	-g	green
+	-y	yellow
+	-b	blue
+	-m	magenta
+	-c	cyan
+	-w	white
+	-t	bright
